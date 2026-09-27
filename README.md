@@ -9,7 +9,12 @@
 
 ## 내려받기
 
-[Releases](../../releases/latest) 에서 `hinuri-swim-setup.exe` 를 받으세요. (약 69MB)
+| 파일 | 내용 |
+|---|---|
+| [**hinuri-swim-setup.exe**](../../releases/latest/download/hinuri-swim-setup.exe) | 설치 프로그램 (약 69MB) |
+| [**사용 설명서 (PDF)**](../../releases/latest/download/hinuri-swim-manual-ko.pdf) | 화면 캡처와 함께 순서대로 설명 (5쪽) |
+
+처음이시면 **PDF 설명서를 먼저 보세요.** 아래 내용과 같지만 화면 그림이 있습니다.
 
 Windows 10/11 64비트. 관리자 권한 필요 없습니다.
 
