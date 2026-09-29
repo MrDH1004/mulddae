@@ -13,8 +13,8 @@
 
 | 파일 | 내용 |
 |---|---|
-| [**hinuri-swim-setup.exe**](../../releases/latest/download/hinuri-swim-setup.exe) | 설치 프로그램 (약 69MB) |
-| [**사용 설명서 (PDF)**](../../releases/latest/download/hinuri-swim-manual-ko.pdf) | 화면 캡처와 함께 순서대로 설명 |
+| [**mulddae-setup.exe**](../../releases/latest/download/mulddae-setup.exe) | 설치 프로그램 (약 69MB) |
+| [**사용 설명서 (PDF)**](../../releases/latest/download/mulddae-manual-ko.pdf) | 화면 캡처와 함께 순서대로 설명 |
 
 처음이시면 **PDF 설명서를 먼저 보세요.** 화면 그림이 있습니다.
 
